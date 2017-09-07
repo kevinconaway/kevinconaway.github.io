@@ -69,7 +69,7 @@ I've used a number of different tools and technologies over the years.  Below ar
 
 * Java, Golang, Python
 * Continuous Integration, Gitflow, Unit & Integration Testing
-* Distributed Systems (Elastic Search, Cassandra, Druid)
+* Distributed Systems (Elasticsearch, Cassandra, Druid)
 * Stream Processing (Apache Kafka & Apache Storm)
 * Hadoop (Spark on Yarn, Oozie, Parquet)
 * Traditional RDBMS/SQL (MySQL, PostgreSQL and Oracle)
