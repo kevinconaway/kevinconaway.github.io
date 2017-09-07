@@ -5,8 +5,6 @@
 [https://github.com/kevinconaway](https://github.com/kevinconaway)  
 [https://www.linkedin.com/in/kevinaconaway](https://www.linkedin.com/in/kevinaconaway)
 
----
-
 ## Experience
 
 ### Walmart Technology, Reston VA
