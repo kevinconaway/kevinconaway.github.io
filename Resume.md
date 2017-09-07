@@ -74,6 +74,7 @@ I've used a number of different tools and technologies over the years.  Below ar
 * Hadoop (Spark on Yarn, Oozie, Parquet)
 * Traditional RDBMS/SQL (MySQL, PostgreSQL and Oracle)
 * REST Services (Spring Boot)
+* Metrics & Monitoring (Dropwizard Metrics, Graphite, Grafana)
 * Node.js
 
 ## Education
