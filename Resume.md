@@ -7,12 +7,18 @@
 
 ## Experience
 
-### Walmart Technology, Reston VA
+### Walmart Technology (Labs), Reston VA
 
-#### Senior Software Developer - 1/2016 to Present
+#### Technical Engineer - 11/2017 to Present
+#### Senior Software Developer - 1/2016 to 11/2017
 Part of the cloud store systems team that is helping Walmart power their stores and clubs with cloud native solutions based on next-gen architectures, technologies and development practices
 
 While at Walmart, I designed and built a number of streaming data systems with a focus on high availability, fault tolerance, and operational excellence. My teams main focus was taking streaming sales data from all of our stores and clubs and making it usable for both technical and non-technical users across the business.
+
+Some other non technical highlights:
+
+* Heavily involved in recruiting, hiring and mentoring talent for our team.
+* Spoke at Elastic{ON} 2017 on how Elastic + Kibana enabled our business users to solve real problems with near real time exploratory analytics
 
 ### Zoomdata, Reston VA
 
