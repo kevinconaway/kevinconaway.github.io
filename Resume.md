@@ -7,9 +7,13 @@
 
 ## Experience
 
-### Walmart Technology (Labs), Reston VA
+### Walmart Labs, Reston VA
 
-#### Technical Engineer - 11/2017 to Present
+#### Staff Software Engineer - 11/2017 to Present
+Promoted to Staff Software Engineer (previously called Technical Expert/Engineer). 
+
+In my new role, I continued to design and implement cloud native systems that solve problems for our stores and clubs at Walmart scale while also helping to grow our team externally through recruiting and internally through technical leadership and mentorship
+
 #### Senior Software Developer - 1/2016 to 11/2017
 Part of the cloud store systems team that is helping Walmart power their stores and clubs with cloud native solutions based on next-gen architectures, technologies and development practices
 
@@ -77,6 +81,8 @@ I've used a number of different tools and technologies over the years.  Below ar
 * Stream Processing (Apache Kafka & Apache Storm)
 * Hadoop (Spark on Yarn, Oozie, Parquet)
 * Traditional RDBMS/SQL (MySQL, PostgreSQL and Oracle)
+* Cloud Storage (Azure Object Storage, Openstack Ceph)
+* Local Storage (RocksDB)
 * REST Services (Spring Boot)
 * Metrics & Monitoring (Dropwizard Metrics, Graphite, Grafana)
 * Node.js
