@@ -14,6 +14,13 @@ Promoted to Staff Software Engineer (previously called Technical Expert/Engineer
 
 In my new role, I continued to design and implement cloud native systems that solve problems for our stores and clubs at Walmart scale while also helping to grow our team externally through recruiting and internally through technical leadership and mentorship
 
+Highlights:
+
+* Built a streaming data pipeline to get near real time events for orders across chain in the US, UK, and China (Kafka, Storm)
+* Built a service to provide near real time aggregated sales analytics.  This allowed associates in the stores to analyze sales, cost and profit in their store, and similar stores, from their mobile devices (Kafka, Druid, Ceph, Hadoop)
+* Created Spark workflows to organize our streaming data in to Parquet based Hive tables (Flume, Spark, Oozie, Parquet, Hive)
+* Streamed order data in to Elasticsearch to enable ad hoc analysis and visualizations of all items sold and returned across chain (Kafka, Storm, Elasticsearch)
+
 #### Senior Software Developer - 1/2016 to 11/2017
 Part of the cloud store systems team that is helping Walmart power their stores and clubs with cloud native solutions based on next-gen architectures, technologies and development practices
 
